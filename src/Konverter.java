@@ -10,7 +10,7 @@ public class Konverter {
 	}
 	
 	public double cmUInce(double a) {
-		return 0;
+		return a / 2.54;
 	}
 	
 	public double inceUCm(double a) {
