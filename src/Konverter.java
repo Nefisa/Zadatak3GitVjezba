@@ -6,7 +6,7 @@ public class Konverter {
 	}
 	
 	public double funteUKilograme(double a) {
-		return 0;
+		return a / 2.2046;
 	}
 	
 	public double cmUInce(double a) {
