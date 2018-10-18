@@ -14,7 +14,7 @@ public class Konverter {
 	}
 
 	public double inceUCm(double a) {
-		return 0;
+		return a*2.55;
 	}
 
 	public double celzijusiUFarenhajte(double a) {
