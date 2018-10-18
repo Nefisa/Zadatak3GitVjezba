@@ -18,7 +18,7 @@ public class Konverter {
 	}
 
 	public double celzijusiUFarenhajte(double a) {
-		return 0;
+		return a * 1.8 + 32;
 	}
 
 	public double farnehajtiUCelzijuse(double a) {
