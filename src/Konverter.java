@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Konverter {
 
 	public static double kilogramUFunte(double a) {
-		return 0;
+		return a * 2.2046;
 	}
 
 	public static double funteUKilograme(double a) {
